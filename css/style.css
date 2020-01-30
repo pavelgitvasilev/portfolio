@@ -90,8 +90,8 @@ body {
 }
 
 .hero-avatar {
-/*  width: 389px;
- height: 389px; */
+ width: 389px;
+ height: 389px;
  background-color: #fff;
  border-radius: 50%;
  background-image: url('../img/avatar.jpg');
@@ -99,7 +99,6 @@ body {
  background-position: center top -5px;
  border: 13px solid #fff;
  background-size: cover;
- background-position: center top;
 }
 
 

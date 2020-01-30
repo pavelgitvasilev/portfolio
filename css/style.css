@@ -98,6 +98,8 @@ body {
  background-repeat: no-repeat;
  background-position: center top -5px;
  border: 13px solid #fff;
+ background-size: cover;
+ background-position: center top;
 }
 
 

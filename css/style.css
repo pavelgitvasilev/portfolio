@@ -96,10 +96,9 @@ body {
  border-radius: 50%;
  background-image: url('../img/avatar.jpg');
  background-repeat: no-repeat;
- background-position: center top -5px;
+ background-position: center top -10px;
  border: 13px solid #fff;
  background-size: cover;
- background-position: center;
 }
 
 
